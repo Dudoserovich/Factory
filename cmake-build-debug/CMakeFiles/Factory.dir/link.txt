@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/Factory.dir/main.cpp.o -o Factory.exe -Wl,--out-implib,libFactory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
